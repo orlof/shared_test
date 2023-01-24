@@ -1,3 +1,3 @@
 *** Keywords ***
 Log Version
-  Log  Version 2
+  Log  Version 3
